@@ -9,3 +9,5 @@ function theBeatlesPlay(musicians, instruments) {
   console.log(outputArr)
   return outputArr
 }
+
+console.log(theBeatlesPlay(['thomas'], ['piano']))
