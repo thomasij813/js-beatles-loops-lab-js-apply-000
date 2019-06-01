@@ -6,5 +6,6 @@ function theBeatlesPlay(musicians, instruments) {
     const instrument = instrument[i]
     outputArr.push(`${musician} plays ${instrument}`)
   }
+  console.log(outputArr)
   return outputArr
 }
