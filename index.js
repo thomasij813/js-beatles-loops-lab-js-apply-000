@@ -20,3 +20,7 @@ function johnLennonFacts(facts) {
   
   return outputArr
 }
+
+function iLoveTheBeatles(num) {
+  
+}
